@@ -1,0 +1,33 @@
+.education {
+    background: linear-gradient(to bottom, #{fade-out(#f4623a, .0)} 0%, #{fade-out(#f4623a, .0)} 100%);
+    color: white;
+}
+
+.education hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-radius: 5px;
+    border-top: 3px solid white;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.education h1 {
+    text-align: center;
+}
+
+.edu-icon {
+    font-size: 5em;
+    padding-right: 20px;
+}
+
+.lhl {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.bcit {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

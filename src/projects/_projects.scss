@@ -1,0 +1,41 @@
+.project {
+    padding: 4rem 2rem;
+}
+
+.project-title {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    margin-left: 15px;
+}
+
+.projects hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-radius: 5px;
+    border-top: 3px solid #f4623a;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.item hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-radius: 5px;
+    border-top: 3px solid #f4623a;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.under-title {
+    border-color: #F05F40;
+    border-width: 3px;
+    max-width: 80px;
+    margin-left: 210px;
+}
+
+.project-image:hover {
+    transition: all 0.35s;
+    opacity: 0.5;
+    color: #F05F40;
+}

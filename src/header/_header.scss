@@ -1,0 +1,44 @@
+.mainHeader {
+    background: linear-gradient(to bottom, #{fade-out(white, .6)} 0%, #{fade-out(white, .6)} 100%),
+    url('../img/bg-masthead.jpg');
+
+}
+
+.mainHeader h1 {
+    font-size: 65px;
+    color: white;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.mainHeader .header-title {
+    font-size: 18px;
+    color: white;
+}
+
+.mainHeader .header-button {
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    border-radius: 300px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 10px;
+    padding: 20px 20px 20px 20px;
+    background-color: #f4623a;
+    border: none;
+}
+
+.container {
+    margin-top: 115px;
+    margin-bottom: 115px;
+}
+
+.portrait {
+    border-radius: 50%;
+}
+
+.headerBody {
+    padding-left: 50px;
+}
+
+element.style {
+    margin-bottom: 0px;
+}
