@@ -20,7 +20,7 @@ export default class Header extends Component {
                                 </Media>
                                 <hr />
                                 <p className="lead header-title">Full-Stack Web Developer</p>
-                                <Button className="header-button">Find Out More</Button>
+                                <Button className="header-button">Find Out More!</Button>
                                 <Socials />
                             </Media>
                         </Media>
