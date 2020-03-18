@@ -16,7 +16,7 @@ export default class Header extends Component {
                             </Media>
                             <Media body className="headerBody">
                                 <Media heading>
-                                    <h1 className="display-3">Michael Chung</h1>
+                                    <h1 className="display-3">Michael Chungs</h1>
                                 </Media>
                                 <hr />
                                 <p className="lead header-title">Full-Stack Web Developer</p>
